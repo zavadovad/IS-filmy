@@ -1,0 +1,4 @@
+1;Chci videt
+2;Divam se
+3;Dodivano
+4;Zahozeno
